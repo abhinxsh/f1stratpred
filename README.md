@@ -32,20 +32,7 @@ Launch the app using app.py
 
 Input race conditions on the website to get strategy recommendations
 
-📂 Project Structure
-bash
-Copy
-Edit
-├── app.py
-├── model.pkl
-├── train_model.py
-├── test_setup.py
-├── /templates
-│   └── index.html
-├── /static
-│   ├── style.css
-│   └── script.js
-└── /venv
+
 📈 Future Improvements
 Add lap-wise prediction and pit stop timing
 
